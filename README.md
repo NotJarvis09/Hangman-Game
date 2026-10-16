@@ -1,4 +1,4 @@
-# Hangman Game 🎮
+# Hangman Game 🎮 
 
 A simple, classic **Hangman** game implemented in Python. Guess the secret word one letter at a time before you run out of attempts!
 
